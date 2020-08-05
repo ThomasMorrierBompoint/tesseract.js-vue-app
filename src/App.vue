@@ -39,12 +39,12 @@ export default {
     return {
       text:'',
       locale:'eng',
-      image: location.origin + '/images/testocr.png',
+      image: location.href + '/images/testocr.png',
     };
   },
   methods: {
     update(event) {
-      this.image = location.origin + event.target.value;
+      this.image = location.href + event.target.value;
     },
     updateLocale(event) {
       this.locale = event.target.value;
