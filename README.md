@@ -1,3 +1,5 @@
+[DEMO](https://thomasmorrierbompoint.github.io/tesseract.js-vue-app/)
+
 # tesseract-vue-app
 
 This app is demo how to use tesseract.js in vue.js.
